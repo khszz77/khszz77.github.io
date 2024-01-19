@@ -1,0 +1,6 @@
+#list_wrap1{clear:both; height:600px;}
+#list_wrap1 h2{font-size: 20px; letter-spacing: -1px; margin-left:20px; margin-top: 30px; margin-bottom: 20px;} 
+#list_wrap1 dt{color: #c62700; font-weight: bold; background: url(../../public/images/subtit_bg.png) no-repeat left center; padding-left: 15px; margin: 15px 0; font-size: 14px;}
+#list_wrap1 dl{margin-left: 10px; line-height: 2em; background: url(../../public/images/bg_mobile.png) no-repeat right bottom;}
+#list_wrap1 dl dd{font-size: 13px;}
+#list_wrap1 dl dd::before{content:" - ";}

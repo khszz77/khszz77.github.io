@@ -1,0 +1,6 @@
+#list_wrap{height:800px; position: relative;}
+#list_wrap > h2{font-size: 20px; margin:20px 0; background:url(../../public/images/tit_bg.png) no-repeat 10px center; padding-left:26px;}
+.list li{margin-left:40px; list-style-type:decimal; line-height: 1.7em;}
+.list li a{color:#333; font-size: 14px;}
+
+.bg{position: absolute; left:250px; top:100px; width:140px; height:163px;}                         

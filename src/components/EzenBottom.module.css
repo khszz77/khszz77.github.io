@@ -1,0 +1,28 @@
+.notice{clear:both;background-color: #eaeaea;border-top:2px solid #666; height:30px;}
+.notice h3{float:left; margin-top:7px; margin-left:10px; font-size: 12px;}
+.notice p{float:left; margin-top:7px; margin-left:15px; font-size: 13px;}
+
+@keyframes effect{
+    50%{opacity: 0;}
+}
+.blink{animation: effect 3s step-end infinite;}
+.sns{float: right; margin-top:3px;}
+.sns li{float: left;margin-left:1px;}
+#bottom{clear:both; background-color: #333; text-align: center; font-size: 13px;}
+#bottom a{color:#fff;}
+.quick1{height:40px; line-height: 40px;}
+.quick1 li{display: inline-block;background: url(../../public/images/footer_line.png) no-repeat left center; margin:0 3px; padding-left: 10px;}
+.quick1 li:first-child{background:none;margin-left:0; padding-left:0;}
+.quick1 li a{letter-spacing: -1px;}
+
+.btn_wrap{width:180px; height:32px; margin:10px auto;}
+.btn_wrap input{float:left;border:1px solid #999; width:80px; height:32px; margin:0 5px; background-color: #fff;}
+
+.quick2{height:40px; line-height: 40px;}
+.quick2 li{display: inline-block; background: url(../../public/images/footer_line.png) no-repeat left center; margin:0 3px; padding-left: 10px;}
+.quick2 li:first-child{background:none;margin-left:0; padding-left:0;}
+.quick2 li a{letter-spacing: -1px;}
+
+.copy_t{color:#fff; font-size:11px; height:30px;}
+
+.top_btn{position: fixed; right:20px; bottom: 10px; z-index:10;}
